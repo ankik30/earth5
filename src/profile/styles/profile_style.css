@@ -1,0 +1,40 @@
+
+#columns{
+    float: left;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.column1{
+    text-align: justify;
+    width: 30%;
+    
+}
+.column2{
+    text-align: right;
+    color: #444444;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.column3{
+    text-align: justify;
+    width: 30%;
+    font-weight: bold;
+    color: #777777;
+    font-family: sans-serif;
+}
+.profile-wrap{
+    box-sizing: border-box;
+    margin-left: 300px;
+}
+
+.image-style{
+    width: 50%;
+    float: right;
+}
+.profile-style{
+    font-family: sans-serif;
+    margin-top: 100px;
+    margin-left: 500px;
+    color: #777777;
+}
